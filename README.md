@@ -7,7 +7,7 @@ My name is Erik Ritzman and this is my GitHub Repository serving to introduce my
 
 ---
 
-##<ins>My Table of Contents</ins>
+### <ins>My Table of Contents</ins>
 - Learning GitHub
 - Learning Python
 - 
