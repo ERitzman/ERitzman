@@ -4,6 +4,13 @@ My name is Erik Ritzman and this is my GitHub Repository serving to introduce my
 - 📫 How to reach me: I am avialable via email [eritzman@gmail.com](mailto:eritzman@gmail.com)
 
 - ⚡ Fun fact: Aside from being a Support Technician and Cybersecurity Analyst, I am also a professional photographer and enjoy the opportunity to share with others the joy of capturing and working with light within the realm of photography. I specialize in portrait and themed photography, often finding new and unique ways to create special effects without the use of photoshop (in camera).
+
+---
+
+##<ins>My Table of Contents</ins>
+- Learning GitHub
+- Learning Python
+- 
 <!--
 **ERitzman/ERitzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
