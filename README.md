@@ -8,9 +8,9 @@ My name is Erik Ritzman and this is my GitHub Repository serving to introduce my
 ---
 
 ### <ins>My Table of Contents</ins>
-- [Learning GitHub](./learn-github.md)
-- [Learning Python](./learn-python.md)
-- [My Notes](./my-notes.md)
+1 [Learning GitHub](./learn-github.md)
+2 [Learning Python](./learn-python.md)
+-- [My Notes](./my-notes.md)
 - 
 <!--
 **ERitzman/ERitzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
