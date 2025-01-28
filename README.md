@@ -13,8 +13,9 @@ My name is Erik Ritzman and this is my GitHub Repository serving to introduce my
   - [My Notes](./my-notes.md)
 1 note first
 2 note second
- 2.1 note sub
+  2.1 note sub
 3 note 3
+
 - general note
 <!--
 **ERitzman/ERitzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
