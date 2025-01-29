@@ -20,7 +20,7 @@ None
 - Dell DCSE/DWPT (Dell Computer Systems Engineer/Warranty Parts Technician) and DMDL 
 - CompTIA A+ certified
 - Google Cybersecurity Certificate
-- Continuing education –Linux+, Security+, Microsoft AZ-900/AZ-500/MS-220
+- Continuing education – Linux+, Security+, Microsoft AZ-900/AZ-500/MS-220
 
 
 ## TECHNICAL QUALIFICATIONS:
