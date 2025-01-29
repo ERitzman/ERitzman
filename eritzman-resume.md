@@ -45,8 +45,7 @@ Active Directory management, Analytics, Checkpoint firewalls, Data migration, De
 
 ## EXPERIENCE:
 
-### The MIL Corporation - Library of Congress - CRS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; March 2024 – January 2025 
-### &nbsp; Technical Support Specialist II – Library of Congress-CRS (Contract)
+### The MIL Corporation - Library of Congress - CRS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; March 2024 – January 2025</br>&nbsp; Technical Support Specialist II – Library of Congress-CRS (Contract)
 - CRS Desktop Support Specialist
 - Participating lead team member of CRS Technicians, achieving a 99% SLA resolution rate for IT service tickets and reducing number of outstanding issues, during 3-month Pilot program, from over a thousand tickets to under 100 with satisfactory review/response form users.
 - Provided comprehensive end-user support for technical issues and system configuration.
@@ -58,8 +57,7 @@ Active Directory management, Analytics, Checkpoint firewalls, Data migration, De
 - Microsoft SCCM/Azure/Intune for System/Account/License Management and Monitoring
 - Ticketing and Service/Change Management utilizing ServiceNow.
 
-### TekSystems – REACH/Volant Media UK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April 2023 – December 2023
-### &nbsp; Sr. Helpdesk Technician & Broadcast Support (Contract)
+### TekSystems – REACH/Volant Media UK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April 2023 – December 2023</br>&nbsp; Sr. Helpdesk Technician & Broadcast Support (Contract)
 - Helpdesk and Broadcast Support Technician
 - Customer Service helpdesk/end user support with extensive knowledge of Microsoft Windows OS and Office 365 Applications
 - Microsoft SCCM/Azure/Intune for System/Account/License Management and Monitoring
@@ -72,8 +70,7 @@ Active Directory management, Analytics, Checkpoint firewalls, Data migration, De
 - Logging/Reporting/Updating/Maintaining/Escalating/Resolving trouble tickets for all requests (Jira) and creating/updating Documentation as needed (Confluence)
 - Taegis (Secureworks) Security Event investigations and monitoring
  
-### Eakas Automotive  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; December 2021 – September 2022
-### &nbsp; IT Systems Administrator / Plant IT Operations Support 
+### Eakas Automotive  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; December 2021 – September 2022</br>&nbsp; IT Systems Administrator / Plant IT Operations Support 
 - Network and security policy documentation and implementation. 
 - Network admin and support for over 200 users including systems & desktop support. 
 - Full Windows 10 implementation.
@@ -83,8 +80,7 @@ Active Directory management, Analytics, Checkpoint firewalls, Data migration, De
 - Cybersecurity Standards and Implementation/Documentation/Management.
 - Ticketing and Service/Change Management utilizing ServiceNow.
  
-### Fortech-USA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; December 2017 - June 2021
-### &nbsp; Sr. Support Specialist – ServiceNow/Application-Software Change Management Specialist
+### Fortech-USA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; December 2017 - June 202</br>&nbsp; Sr. Support Specialist – ServiceNow/Application-Software Change Management Specialist
 - First and second level application support.
 - Incident management and investigation including root-cause analysis. 
 - Direct customer interaction for troubleshooting and problem resolution. 
@@ -100,22 +96,19 @@ Active Directory management, Analytics, Checkpoint firewalls, Data migration, De
 - Familiarity with SQL Server/DB for advanced troubleshooting/remediation of additional/missing/incorrect data/query in a live environment.
 - Assist in the development and use of custom Data Restoration/Correction Tool to adjust/modify Downtime/Uptime and Production data due to network/service interruptions with Application Database.
  
-### Dav-Lear Consulting - NASA (HP/ACES) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; June 2016 - March 2017
-### &nbsp; Sr. Information Services Technician (Contract)
+### Dav-Lear Consulting - NASA (HP/ACES) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; June 2016 - March 2017</br>&nbsp; Sr. Information Services Technician (Contract)
 - Mac OSX systems refresh project involving imaging and deployment of systems.
 - Data migration and systems support for multiple platforms, active directory management for user access and security policies. 
 - Deskside support of data migration for Mac OSX and Windows users. 
 - TechCenter, AV and Kiosk-Support for all internal/external/visiting users (Mac, PC, Mobile) Department Technical Lead. 
 - Ticketing and Service/Change Management utilizing Remedy.
  
-### SmartSource – AARP &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; May 2016 - June 2016
-### &nbsp; Sr. Information Services Technician-Mac Deployment Specialist (Contract)
+### SmartSource – AARP &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; May 2016 - June 2016</br>&nbsp; Sr. Information Services Technician-Mac Deployment Specialist (Contract)
 - Mac OSX systems refresh project involving imaging and deployment of systems (JAMF). 
 - Data migration and systems support for multiple platforms.
 - Centrify SMS and JAMF for imaging and software management.
  
-### Fidelis CyberSecurity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2015 – October 2015
-### &nbsp; Sr. Information Services Technician-Support - Team Lead
+### Fidelis CyberSecurity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2015 – October 2015</br>&nbsp; Sr. Information Services Technician-Support - Team Lead
 - Understanding and documentation of HelpDesk methodologies and operation (ticket escalation, SLA tracking, etc.) and utilization of new Support Team designed to improve existing performance, reliability, and efficiency of the team.  These processes ultimately led to a full restructuring of the Support Team and revenue/staffing savings for the entire Support department.
 - Heavy knowledge of installation, troubleshooting and end-user support of Linux / Windows / OSX operating systems and associated applications.
 - Strong knowledge of Microsoft Active Directory, Microsoft roaming profiles, and Microsoft Distributed file System including Centrify for MacOSX AD integration and GPO's
@@ -126,8 +119,7 @@ Active Directory management, Analytics, Checkpoint firewalls, Data migration, De
 - Remotely supported end-users utilizing WebEx, TeamViewer and similar Remote Management Applications. 
 - Managed/Lead Team of 6 Technicians in maintaining 99% SLA resolution for all Helpdesk and IT Service-related tickets for 300+ employees during growth from 200+ employees.
  
-### Alion Science & Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; November 2012 - April 2015
-### &nbsp; Information Assurance Analyst
+### Alion Science & Technology &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; November 2012 - April 2015</br>&nbsp; Information Assurance Analyst
 - Assist in design and implementation of network security solutions and help create policies and guidelines. 
 - Perform security audits, reports, and assist in remediation.
 - Managed and monitored security systems and firewalls, ensuring adherence to cybersecurity standards.
@@ -148,14 +140,12 @@ Active Directory management, Analytics, Checkpoint firewalls, Data migration, De
 - Conducted network and security audits, implementing necessary changes to enhance system integrity
 - Responsible for locating and identifying attempt at persistent access to classified webserver by foreign-national Cyber Espionage Group that later contributed to Federal Indictments and public awareness of their existence.
  
-### Fortitude – Marriott &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; September 2012 - November 2012
-### &nbsp; Security Analyst & RSA SME (Contract)
+### Fortitude – Marriott &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; September 2012 - November 2012</br>&nbsp; Security Analyst & RSA SME (Contract)
 - Administration and RSA Console Management for SoftToken, support end users and review weekly reports. 
 - RSA SecureID support for mobile devices.
 - Assist users with migration between versions of Multi-factor Authentication App and RSA Root Certificate Installations
  
-### Technosoft – Unisys &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April 2012 - September 2012
-### &nbsp; Sr Network Control Specialist & Security Analyst (Contract)
+### Technosoft – Unisys &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April 2012 - September 2012</br>&nbsp; Sr Network Control Specialist & Security Analyst (Contract)
 - Device management for our customer base including Checkpoint firewalls, Fortinet firewalls, and various IDS/IPS systems including Sourcefire.
 - Managed and monitored security systems and firewalls, ensuring adherence to cybersecurity standards.
 - Manage and Monitor Security Systems, Firewalls, Security Events and Analysis, Data Center Support, supporting client’s security infrastructure and monitoring as well as support of 7x24 Monitoring of Clients, updating firewalls, troubleshooting security problems and events.
@@ -166,8 +156,7 @@ Active Directory management, Analytics, Checkpoint firewalls, Data migration, De
 - Network monitoring of security incidents through ArcSight. 
 - Utilization of Multiple unique VPN/RDC for managing multiple Independent Clients and issuing mass updates, configuration changes and troubleshooting.
  
-### Verizon Enterprise Solutions &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; November 2010 - October 2011
-### &nbsp; Security Analyst & Sr. Network Control Technician - MSS/SOC
+### Verizon Enterprise Solutions &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; November 2010 - October 2011</br>&nbsp; Security Analyst & Sr. Network Control Technician - MSS/SOC
 - Tier 2 analyst and device management for numerous businesses including Fortune 500 companies. Device management included rule changes, signature and software updates, peer reviews, and troubleshooting for Routers, Switches and Firewalls across multiple vendors and devices (Cisco, Fortinet, Juniper, PaloAlto and more). 
 - Health monitoring of customer devices and troubleshoot device and connection issues.
 - Managed and monitored security systems and firewalls, ensuring adherence to cybersecurity standards.
