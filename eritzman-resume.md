@@ -9,7 +9,7 @@ Users and colleagues valued Erik’s resourcefulness, his understanding and vers
 
 
 ## EDUCATION:	
-
+Some college and online learning
 
 ## SECURITY CLEARANCE:
 None
