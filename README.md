@@ -11,6 +11,7 @@ My name is Erik Ritzman and this is my GitHub Repository serving to introduce my
 - [Learning GitHub](./learn-github.md)
 - [Learning Python](./learn-python.md)
 - [My Notes](./my-notes.md)
+- [ERitzman-Resume](./eritzman-resume.md)
 <!--
 **ERitzman/ERitzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
