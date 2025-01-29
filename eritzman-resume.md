@@ -45,7 +45,7 @@ Active Directory management, Analytics, Checkpoint firewalls, Data migration, De
 
 ## EXPERIENCE:
 
-### The MIL Corporation - Library of Congress - CRS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; March 2024 – January 2025</br>&nbsp; Technical Support Specialist II – Library of Congress-CRS (Contract)
+### The MIL Corporation - Library of Congress - CRS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; March 2024 – January 2025</br>&nbsp; Technical Support Specialist II (Contract)
 - CRS Desktop Support Specialist
 - Participating lead team member of CRS Technicians, achieving a 99% SLA resolution rate for IT service tickets and reducing number of outstanding issues, during 3-month Pilot program, from over a thousand tickets to under 100 with satisfactory review/response form users.
 - Provided comprehensive end-user support for technical issues and system configuration.
