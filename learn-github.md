@@ -1,5 +1,5 @@
 # Learning GitHub
 
 ## <ins>Table of Contents</ins> 
-- Syntax
+- [markdown-cheatsheet](.\.learning\.github\markdown-cheatsheet.md)
 - 
