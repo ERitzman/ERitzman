@@ -1,7 +1,6 @@
 # ⬇️ The Only Markdown Cheatsheet You Need
-...
-*_this is learned(copied) from [im-luka](https://github.com/im-luka/markdown-cheatsheet/blob/main/README.md)_*
-...
+> [!NOTE]
+> *_this is learned(copied) from [im-luka](https://github.com/im-luka/markdown-cheatsheet/blob/main/README.md)_*
 
 
 _Here you can find & download PDF version of the Complete Markdown Cheatsheet.  
