@@ -1,6 +1,6 @@
 # ⬇️ The Only Markdown Cheatsheet You Need
 ...
-*__this is learned(copied) from [im-luka](https://github.com/im-luka/markdown-cheatsheet/blob/main/README.md)__*
+*_this is learned(copied) from [im-luka](https://github.com/im-luka/markdown-cheatsheet/blob/main/README.md)_*
 ...
 
 
