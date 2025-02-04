@@ -1,4 +1,4 @@
-# JAMF - PRO
+# [JAMF - PRO](https://trainingcatalog.jamf.com/path/jamf-pro-prerequisites)
 ## Complete the JAMF Pro Setup Assistant
 
 ### Summary
