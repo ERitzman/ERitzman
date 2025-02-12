@@ -63,4 +63,4 @@ are covered in each area.
 
 This training helps you develop a broad understanding of Azure.
 
-[Continue to Introduction to Cloud Computing >>]()
+[Continue to Introduction to Cloud Computing >>](https://github.com/ERitzman/ERitzman/blob/main/Microsoft-AZ104/Introduction%20to%20cloud%20computing.md)
