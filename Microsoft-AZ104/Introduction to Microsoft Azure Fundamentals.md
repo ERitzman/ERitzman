@@ -62,3 +62,5 @@ contain. Be sure to read the exam page for specifics about what skills
 are covered in each area.
 
 This training helps you develop a broad understanding of Azure.
+
+[Continue to Introduction to Cloud Computing >>]()
