@@ -1,5 +1,6 @@
 # Introduction to Cloud Computing
-> _NOTE: the following is largely taken from [Learn Microsoft - Azure](https://learn.microsoft.com/) with some additions from additional resources_
+> [!NOTE]
+> _the following is largely taken from [Learn Microsoft - Azure](https://learn.microsoft.com/) with some additions from additional resources_
 
 In this module, you'll be introduced to general cloud concepts. You'll
 start with an introduction to the cloud in general. Then you\'ll dive
@@ -16,7 +17,7 @@ After completing this module, you'll be able to:
 - [Define cloud models](https://github.com/ERitzman/ERitzman/new/main/Microsoft-AZ104#define-cloud-models), including public, private, and hybrid.
 - Identify appropriate use cases for each cloud model.
 - [Describe the consumption-based model](https://github.com/ERitzman/ERitzman/edit/main/Microsoft-AZ104/Introduction%20to%20cloud%20computing.md#describe-the-consumption-based-model).
-- Compare cloud pricing models.
+- [Compare cloud pricing models](https://github.com/ERitzman/ERitzman/edit/main/Microsoft-AZ104/Introduction%20to%20cloud%20computing.md#compare-cloud-pricing-models).
 
 ## What is cloud computing
 Cloud computing is the delivery of computing services over the internet.
@@ -93,7 +94,6 @@ distributes responsibility between the cloud provider and the consumer.
 The following diagram highlights how the Shared Responsibility Model
 informs who is responsible for what, depending on the cloud service
 type.
-
 ![image](https://learn.microsoft.com/en-us/training/wwl-azure/describe-cloud-compute/media/shared-responsibility-b3829bfe.svg)
 
 When using a cloud provider, you'll always be responsible for:
@@ -245,3 +245,28 @@ them for the time that you need them. The cloud provider takes care of
 maintaining the underlying infrastructure for you. The cloud enables you
 to quickly solve your toughest business challenges and bring
 cutting-edge solutions to your users.
+
+## Knowledge check
+```diff
+1. What is cloud computing? 
++ [x] Delivery of computing services over the internet.  
++      - Cloud computing is the delivery of computing services over the internet.
+- [ ] Delivery of storage services over the internet.
+- [ ] Delivery of websites accessible via the internet.
+   
+2. Which cloud model uses some datacenters focused on providing cloud services to
+anyone that wants them, and some data centers that are focused on a single customer? 
+- [ ] Public cloud
++ [x] Hybrid cloud
++      - The hybrid cloud model is a combination of public cloud and private cloud,
++        using both datacenters dedicated solely to one customer and datacenters that are shared with the public.
+- [ ] Multicloud
+   
+3. According to the shared responsibility model, which cloud service
+type places the most responsibility on the customer? 
++ [x] Infrastructure as a Service (IaaS)
++      - IaaS places the most responsibility on the consumer, with the cloud provider
++        being responsible for the basics of physical security, power, and connectivity.
+- [ ] Software as a Service (SaaS)
+- [ ] Platform as a Service (PaaS)
+```
