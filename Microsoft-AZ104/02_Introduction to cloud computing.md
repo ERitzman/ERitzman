@@ -270,3 +270,5 @@ type places the most responsibility on the customer?
 - [ ] Software as a Service (SaaS)
 - [ ] Platform as a Service (PaaS)
 ```
+
+[<<< Back to 01_Introduction To Microsoft Azure](https://github.com/ERitzman/ERitzman/blob/main/Microsoft-AZ104/01_Introduction%20to%20Microsoft%20Azure%20Fundamentals.md) [Continue to 03_Benefits of Cloud Services >>>](https://github.com/ERitzman/ERitzman/blob/main/Microsoft-AZ104/03_Benefits%20of%20using%20cloud%20services.md)
