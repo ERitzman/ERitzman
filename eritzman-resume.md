@@ -143,7 +143,7 @@ Active Directory management, Analytics, Checkpoint firewalls, Data migration, De
 - Data migration and systems support for multiple platforms.
 - Centrify SMS and JAMF for imaging and software management.
  
-### Fidelis CyberSecurity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2015 – October 2015</br>&nbsp; _Sr. Information Services Technician-Support - Team Lead_
+### Fidelis CyberSecurity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April 2015 – October 2015</br>&nbsp; _Sr. Information Services Technician-Support - Team Lead_
 -	Understanding and documentation of HelpDesk methodologies and operation (ticket escalation, SLA tracking, etc.) and utilization of new Support Team designed to improve existing performance, reliability, and efficiency of the team.  These processes ultimately led to a full restructuring of the Support Team and revenue/staffing savings for the entire Support department.
 -	Heavy knowledge of installation, troubleshooting and end-user support of Linux / Windows / OSX operating systems and associated applications.
 -	Strong knowledge of Microsoft Active Directory, Microsoft roaming profiles, and Microsoft Distributed file System including Centrify for MacOSX AD integration and GPO's
