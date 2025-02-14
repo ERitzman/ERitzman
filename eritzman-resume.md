@@ -31,7 +31,7 @@ PC (Windows, OSX, Linux), Server (Web, ESXi, VMWare, SCCM)
 Windows 7,10,11, OSX, Office 365 w/Teams, Adobe Acrobat/Photoshop/Lightroom/Premier, Visual Studio, Chrome/Edge/Safari/Firefox, RDP, Powershell, Cisco Secure Client VPN, Avya Agent
 
 ### Environments, Tools & Languages
-Python, Anaconda, Bash, Powershell
+Python, Anaconda, Bash, Powershell, JAMF
 
 ### Networks, Protocols & Operating Systems
 TCP/IP, IPv4/6, Windows 7,10,11, OSX 10-15, Azure/Intune
@@ -40,7 +40,7 @@ TCP/IP, IPv4/6, Windows 7,10,11, OSX 10-15, Azure/Intune
 SQL, mySQL
 
 ### Specific Skills
-Active Directory management, Analytics, Checkpoint firewalls, Data migration, Device management, Encryption, Fortinet firewalls, IDS/IPS systems, Linux, Mac OSx, Mobile devices, Network monitoring, Network security, Windows OS, RSA, Sourcefire, Symantec, T1, T2, T3 Desktop/Deskside/Remote IT Systems, Windows 10, Office 365, ServiceNow, Remedy, Solarwinds SIEM/ServiceDesk, Microsoft/ManageEngine SCCM, VMWare ESXi v6.5, VMWare Fusion 10, PulseSecure Dynamic VPN, Cisco Secure Client VPN, Cisco IoT Device Management, CLIS (Cisco command line interface), Windows PowerShell, SQL Query, Adobe, Jira, Confluence, Microsoft Azure/Intune Suite for AD/Device/User/License/Software/Security Mgt., ManageEngine SIEM/RMM, Cisco SecureClient/AnyConnect/VPN, TeamViewer RAC
+Active Directory management, Analytics, Checkpoint firewalls, Data migration, Device management, Encryption, Fortinet firewalls, IDS/IPS systems, Linux, Mac OSx, Mobile devices, Network monitoring, Network security, Windows OS, RSA, Sourcefire, Symantec, T1, T2, T3 Desktop/Deskside/Remote IT Systems, Windows 10, Office 365, ServiceNow, Remedy, Solarwinds SIEM/ServiceDesk, JAMF, Microsoft/ManageEngine SCCM, VMWare ESXi v6.5, VMWare Fusion 10, PulseSecure Dynamic VPN, Cisco Secure Client VPN, Cisco IoT Device Management, CLIS (Cisco command line interface), Windows PowerShell, SQL Query, Adobe, Jira, Confluence, Microsoft Azure/Intune Suite for AD/Device/User/License/Software/Security Mgt., ManageEngine SIEM/RMM, Cisco SecureClient/AnyConnect/VPN, TeamViewer RAC
 
 
 ## EXPERIENCE:
@@ -61,7 +61,7 @@ Active Directory management, Analytics, Checkpoint firewalls, Data migration, De
 - Conferred and coordinated with senior engineering staff to resolve more complex problems.
 - Interacted professionally with executive-level staff, customers and management in resolving technical problems.
 - Configured workstations to include but not limited to profile information, printer, dual monitors as applicable, etc.
-- Hardware and supply provisioning, troubleshooting, break/fix and more
+- Assisted with configuring and testing of JAMF Touchless Deployment and Software Management initiative for Mac devices including Account Provisioning and Device Management. 
 - Ticketing and Service/Change Management utilizing ServiceNow.
 
 ### TekSystems – REACH/Volant Media UK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April 2023 – December 2023</br>&nbsp; _Sr. Helpdesk Technician & Broadcast Support (Contract)_
@@ -132,7 +132,7 @@ Active Directory management, Analytics, Checkpoint firewalls, Data migration, De
 -	Utilize years of experience in construction Trades, Military and Corporate world as a Sr. IT Specialist to coordinate and utilize resources in an emergency situation maximizing their effect and resolution.
  
 ### Dav-Lear Consulting - NASA (HP/ACES) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; June 2016 - March 2017</br>&nbsp; _Sr. Information Services Technician (Contract)_
--	Mac OSX systems refresh project involving imaging and deployment of systems.
+-	Mac OSX systems refresh project involving imaging and deployment of systems via JAMF Management environment.
 -	Data migration and systems support for multiple platforms, active directory management for user access and security policies. 
 -	Deskside support of data migration for Mac OSX and Windows users. 
 -	TechCenter, AV and Kiosk-Support for all internal/external/visiting users (Mac, PC, Mobile) Department Technical Lead. 
