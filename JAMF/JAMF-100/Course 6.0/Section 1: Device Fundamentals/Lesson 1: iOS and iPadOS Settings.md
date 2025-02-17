@@ -4,7 +4,7 @@ Navigate the Settings app in iOS and iPadOS to customize a device and find devic
 ## Video
 https://www.youtube.com/watch?v=_3KdG0TZ5ZA
 
-[![Watch the video](https://i.ytimg.com/vi_webp/_3KdG0TZ5ZA/sddefault.webp)](https://youtu.be/3KdG0TZ5ZA)
+[![Watch the video](https://i.ytimg.com/vi_webp/_3KdG0TZ5ZA/sddefault.webp)](https://youtu.be/_3KdG0TZ5ZA)
 ## Key Points
 - The Settings app contains important device information as well as preferences and customization options.
   - The Settings app for iPadOS is functionally and organizationally similar to iOS.
