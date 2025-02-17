@@ -18,7 +18,7 @@ Become familiar with the Jamf 100 Course and explore its contents.
 
 -   There are four sections in this course:
 
-    -   Section 1: Device Fundamentals
+    -   [Section 1: Device Fundamentals](/JAMF/JAMF-100/Course%206.0/Section%201%3A%20Device%20Fundamentals/Section%201%3A%20Device%20Fundamentals.md)
 
     -   Section 2: Jamf Pro Setup and Infrastructure
 
