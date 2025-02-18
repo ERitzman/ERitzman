@@ -8,7 +8,7 @@ My name is Erik Ritzman and this is my GitHub Repository serving to introduce my
 ---
 
 ### <ins>My Table of Contents</ins>
-- [Learning JAMF](./tree/main/JAMF/JAMF-100/Course%206.0)
+- [Learning JAMF](./ERitzman/tree/main/JAMF/JAMF-100/Course%206.0)
 - [Learning Python](./learn-python.md)
 - [My Notes](./my-notes.md)
 - [ERitzman-Resume](./eritzman-resume.md)
