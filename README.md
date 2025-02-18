@@ -9,8 +9,9 @@ My name is Erik Ritzman and this is my GitHub Repository serving to introduce my
 
 ### <ins>My Table of Contents</ins>
 - [Learning JAMF](JAMF)
-- [Learning Python](./learn-python.md)
+- [Learning Python](Python)
 - [Microsoft-AZ104](Microsoft-AZ104)
+- [Linux](Linux)
 - [ERitzman-Resume](./eritzman-resume.md)
 <!--
 **ERitzman/ERitzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
