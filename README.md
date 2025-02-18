@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Erik Ritzman and this is my GitHub Repository serving to introduce myself and to introduce to others what I am working on as well as to serve as a POR for my personal endeavors and notes.
+My name is Erik Ritzman and this is my GitHub Repository serving to introduce myself and to introduce to others what I am working on as well as to serve as a PoR for my personal endeavors and notes.
 - 🔭 I’m currently working on learning more about the use of Git and it's many functions/abilities. Within this learning I am also attempting to use Git to manage my daily note taking in lieu of OneNote.
 - 📫 How to reach me: I am avialable via email [eritzman@gmail.com](mailto:eritzman@gmail.com)
 
