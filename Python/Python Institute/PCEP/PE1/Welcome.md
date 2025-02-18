@@ -65,8 +65,9 @@ And many, many other projects and development tools.
 Upon completion of <em>Python Essentials 1</em>, you will be prepared to attempt the qualification [PCEP – Certified Entry-Level Python Programmer](https://pythoninstitute.org/pcep).
 
 <em>PCEP – Certified Entry-Level Python Programmer</em> certification shows that you are familiar with universal computer programming concepts like **data types**, **containers**, **functions**, **conditions**, and **loops**, as well as the most important aspects of the Python programming language **syntax**, **semantics**, and the **runtime environment**.
-<p align="right">
-  <img src="/uploads/media/default/0001/02/e2519dd139c8e12186e446e4714ba5751c3cb4ab.png" width="30%" alt="PCEP badge" style="float:left; padding:20px;">
+
+<img src="https://edube.org/uploads/media/default/0001/02/e2519dd139c8e12186e446e4714ba5751c3cb4ab.png" width="10%" alt="PCEP badge" style="float:left; padding:20px;">
+
 Becoming PCEP certified ensures that you are acquainted with the most **essential means provided by Python 3**, which enable you to start your own studies at an intermediate level and to continue your professional development.
 
 PCEP certification allows you to demonstrate that not only are you up to date with Python-related issues, but also that you can competently deal with them.
@@ -77,7 +78,4 @@ Furthermore, with the OpenEDG Python Institute, you gain access to a large netwo
 
 Becoming PCEP certified will help the certificate holder stand out from other candidates and get their foot in the door.
 
-
-Python Institute Certification Roadmap
-
-OpenEDG Python Institute Certification Roadmap
+![OpenEDG Python Institute Certification Roadmap](https://edube.org/uploads/media/default/0001/03/950648592699cd56fe8676fa3cdab9d81d1a9474.png)
