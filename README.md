@@ -5,6 +5,8 @@ My name is Erik Ritzman and this is my GitHub Repository serving to introduce my
 
 - ⚡ Fun fact: Aside from being a Support Technician and Cybersecurity Analyst, I am also a professional photographer and enjoy the opportunity to share with others the joy of capturing and working with light within the realm of photography. I specialize in portrait and themed photography, often finding new and unique ways to create special effects without the use of photoshop (in camera). My Photography site can be found at [LSStudios.photo](https://www.lsstudios.photo/).
 
+- :turtle: I can also be found sometimes enjoying my time wandering, farming and in general helping others navigate Elite Challenges in Nordanaar:*SkwirlzWrath* (IFYKYK)
+
 ---
 
 ### <ins>My Table of Contents</ins>
